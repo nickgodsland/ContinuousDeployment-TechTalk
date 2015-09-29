@@ -31,7 +31,7 @@ namespace Demo.HelloWorld.Service
       {
          public SampleModule()
          {
-            Get["/"] = _ => "Hello world!";
+            Get["/"] = _ => "Hello World!";
          }
       }
    }
